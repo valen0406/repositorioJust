@@ -1,0 +1,2 @@
+# repositorioJust
+Actividad Scrum
